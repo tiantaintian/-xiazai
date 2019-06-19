@@ -15,7 +15,7 @@
 	position: absolute;
 	left: 50%;
 	margin-left: -2.56rem;
-	top: 1.5rem;
+	top: 0.9rem;
 }
 .downLayer{
 	width:100%;
@@ -51,7 +51,7 @@
 	background-color: pink;
 	height: 4.2rem;
 	position: absolute;
-	top: 36%;
+	top: 45%;
 	left: 50%;
 	margin-left: -2.1rem;
 }
