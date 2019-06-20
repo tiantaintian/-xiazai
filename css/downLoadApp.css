@@ -36,6 +36,7 @@
 }
 .download_btn a{
 	width: 50%;
+       float:left;
 	height: 100%;
 	display: block;
 	cursor: pointer;
