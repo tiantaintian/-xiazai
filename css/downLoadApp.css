@@ -31,17 +31,18 @@
 .download_btn{
 	position: fixed;
 	bottom: 0rem;
+	height:9%;
 	width: 100%;
 }
 .download_btn a{
-	width: 100%;
+	width: 50%;
 	height: 100%;
 	display: block;
 	cursor: pointer;
 }
 .download_btn div{
 	height: 1.5rem;
-	width: 40%;
+	width: 89%;
 	font-weight: bold;
 	
 	font-size: 0.44rem;
@@ -95,6 +96,7 @@
 		bottom:2rem;
 		width: 50%;
 		left: 50%;
+		height:1.5rem;
 		margin-left: -25%;
 	}
 .anZhuo,
